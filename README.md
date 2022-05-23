@@ -1,2 +1,0 @@
-# java
-By ADHITYAVARMAN S S
